@@ -1,0 +1,2 @@
+当前有如下skill，当用户的提问需要使用某个skill时，使用skill工具加载skill的详情
+${skillcontent}
