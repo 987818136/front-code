@@ -1,0 +1,5 @@
+{
+    "baseURL":"接口地址，openai规范",
+    "apiKey":"apikey",
+    "model":"你要使用的模型"
+}
